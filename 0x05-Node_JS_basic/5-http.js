@@ -1,6 +1,6 @@
 const http = require('http');
-
 const fs = require('fs');
+
 const PORT = 1245;
 const HOST = 'localhost';
 const app = http.createServer();
